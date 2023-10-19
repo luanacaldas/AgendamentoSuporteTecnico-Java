@@ -1,4 +1,4 @@
-# Agendamento de Suporte Técnico
+# Agendamento de Suporte Técnico ☕
 
 Este projeto consiste em uma aplicação Java que permite agendar atendimentos de suporte técnico. Os agendamentos são armazenados em um banco de dados MySQL e podem ser filtrados por data. Esta aplicação foi o meu primeiro passo na tecnologia e me motivou a entrar no processo seletivo que me levou a uma das maiores empresas do Brasil.
 
